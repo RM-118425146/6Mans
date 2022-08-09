@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Clean Blog - Start Bootstrap Theme</title>
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+        <link href="css/profiles.css" rel="stylesheet" />
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+    </head>
+    <body onload="authenticate().then(loadClient).then(execute1).then(execute2).then(execute3)">
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-light" id="mainNav">
+            <div class="container px-4 px-lg-5">
+                <a class="navbar-brand" href="index.html">RLI 6Mans</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    Menu
+                    <i class="fas fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ms-auto py-4 py-lg-0">
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="index.html">Home</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="live.html">Live Leaderboard</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="previous.html">Previous Month Leaderboard</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="rules.html">Rules</a></li>
+                        <li class="nav-item"><a class="nav-link px-lg-3 py-3 py-lg-4" href="staff.html">Staff</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Page Header-->
+        <header class="masthead" style="background-image: url('assets/img/irish scenery.jpg')">
+            <div class="container position-relative px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <div class="site-heading">
+                            <img src="assets/img/RLI Logo Transparent.jpg" style="height:500px; width:auto;">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- Main Content-->
+        <div class="container px-4 px-lg-5">
+            <div class="row gx-4 gx-lg-5 justify-content-center">
+
+                    <div class="container">
+                        <div class="row justify-content-center">
+                            <div class="col-12 col-sm-8 col-lg-6">
+                                <!-- Section Heading-->
+                                <div class="section_heading text-center wow fadeInUp" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+                                    <h3>Current Tier <span> Winners</span></h3>
+                                    <div class="line"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <!-- Single Advisor-->
+                            <div class="col-12 col-sm-6 col-lg-3">
+                                <div class="single_advisor_profile wow fadeInUp" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+                                    <!-- Team Thumb-->
+                                    <div class="advisor_thumb"><img src="assets/img/Gold_Medal_PNG_Clip_Art_Image.png" alt="">
+                                    </div>
+                                    <!-- Team Details-->
+                                    <div class="single_advisor_details_info">
+                                        <h6 id="EliteWinner">Waiting Authentication</h6>
+                                        <p class="designation">Elite Champion</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Single Advisor-->
+                            <div class="col-12 col-sm-6 col-lg-3">
+                                <div class="single_advisor_profile wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+                                    <!-- Team Thumb-->
+                                    <div class="advisor_thumb"><img src="assets/img/Silver_Medal_PNG_Clip_Art_Image.png" alt="">
+                                    </div>
+                                    <!-- Team Details-->
+                                    <div class="single_advisor_details_info">
+                                        <h6 id="PremWinner">Waiting Authentication</h6>
+                                        <p class="designation">Premier Champion</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Single Advisor-->
+                            <div class="col-12 col-sm-6 col-lg-3">
+                                <div class="single_advisor_profile wow fadeInUp" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+                                    <!-- Team Thumb-->
+                                    <div class="advisor_thumb"><img src="assets/img/Bronze_Medal_PNG_Clip_Art_Image.png" alt="">
+                                    </div>
+                                    <!-- Team Details-->
+                                    <div class="single_advisor_details_info">
+                                        <h6 id="champWinner">Waiting Authentication</h6>
+                                        <p class="designation">Championship Champion</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Divider -->
+                    <hr class="my-4" />
+
+            </div>
+        </div>
+        <!-- Footer-->
+        <footer class="border-top">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-md-10 col-lg-8 col-xl-7">
+                        <div class="small text-center text-muted fst-italic">RLI 6Mans 2022</div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+
+        <script src="https://apis.google.com/js/api.js"></script>
+        <script src="js/PreviousLeaderboard.js"></script>
+    </body>
+</html>
