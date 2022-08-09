@@ -4,26 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0889ea9d-d8db-4f7e-8f4f-2c22e759628c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6Mans_test_website.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwwroot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwwroot/assets/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwwroot/assets/img/RLI logo Transparent.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwwroot/assets/img/about-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwwroot/assets/img/contact-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwwroot/assets/img/home-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwwroot/assets/img/irish scenery.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwwroot/assets/img/post-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwwroot/assets/img/post-sample-image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwwroot/css/profiles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwwroot/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwwroot/js/PreviousLeaderboard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wwwroot/js/scripts.js" afterDir="false" />
+    <list default="true" id="0889ea9d-d8db-4f7e-8f4f-2c22e759628c" name="Changes" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +53,14 @@
       <option name="presentableId" value="Default" />
       <updated>1660047833593</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1660060269661</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660060269661</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,5 +73,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
