@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0889ea9d-d8db-4f7e-8f4f-2c22e759628c" name="Changes" comment="updating file paths">
+    <list default="true" id="0889ea9d-d8db-4f7e-8f4f-2c22e759628c" name="Changes" comment="updating image names">
+      <change afterPath="$PROJECT_DIR$/wwwroot/assets/img/RLI_Logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/assets/img/RLI logo Transparent.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wwwroot/assets/img/RLI_logo_Transparent.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/assets/img/irish scenery.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wwwroot/assets/img/irish_scenery.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660063484894</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="updating image names">
+      <created>1660063923839</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1660063923839</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,6 +109,7 @@
     <MESSAGE value="added images" />
     <MESSAGE value="removed authentication" />
     <MESSAGE value="updating file paths" />
-    <option name="LAST_COMMIT_MESSAGE" value="updating file paths" />
+    <MESSAGE value="updating image names" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating image names" />
   </component>
 </project>
