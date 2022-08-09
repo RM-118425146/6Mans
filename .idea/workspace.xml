@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0889ea9d-d8db-4f7e-8f4f-2c22e759628c" name="Changes" comment="updating favicon root">
+    <list default="true" id="0889ea9d-d8db-4f7e-8f4f-2c22e759628c" name="Changes" comment="edited body css">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/css/profiles.css" beforeDir="false" afterPath="$PROJECT_DIR$/wwwroot/css/profiles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wwwroot/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/wwwroot/css/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660066243569</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="edited body css">
+      <created>1660072510716</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1660072510716</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,6 +132,7 @@
     <MESSAGE value="updating file paths" />
     <MESSAGE value="updating image names" />
     <MESSAGE value="updating favicon root" />
-    <option name="LAST_COMMIT_MESSAGE" value="updating favicon root" />
+    <MESSAGE value="edited body css" />
+    <option name="LAST_COMMIT_MESSAGE" value="edited body css" />
   </component>
 </project>
