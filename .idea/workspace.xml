@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0889ea9d-d8db-4f7e-8f4f-2c22e759628c" name="Changes" comment="added images">
+    <list default="true" id="0889ea9d-d8db-4f7e-8f4f-2c22e759628c" name="Changes" comment="updating file paths">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wwwroot/js/PreviousLeaderboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/wwwroot/js/PreviousLeaderboard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wwwroot/assets/img/RLI logo Transparent.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wwwroot/assets/img/RLI_logo_Transparent.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wwwroot/assets/img/irish scenery.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/wwwroot/assets/img/irish_scenery.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +70,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660062179673</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="removed authentication">
+      <created>1660063183879</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660063183879</updated>
+    </task>
+    <task id="LOCAL-00004" summary="updating file paths">
+      <created>1660063484894</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660063484894</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,6 +101,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="added images" />
-    <option name="LAST_COMMIT_MESSAGE" value="added images" />
+    <MESSAGE value="removed authentication" />
+    <MESSAGE value="updating file paths" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating file paths" />
   </component>
 </project>
