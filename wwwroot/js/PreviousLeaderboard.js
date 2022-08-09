@@ -1,10 +1,4 @@
-function authenticate() {
-    return gapi.auth2.getAuthInstance()
-        .signIn({scope: ""})
-        .then(function() { console.log("Sign-in successful"); },
-              function(err) { console.error("Error signing in", err); });
-  }
-  function loadClient() {
+function loadClient() {
     gapi.client.setApiKey("AIzaSyCMTmKWgb0Ox0PJsaYh0uC29jzDGUnin0k");
     return gapi.client.load("https://sheets.googleapis.com/$discovery/rest?version=v4")
         .then(function() { console.log("GAPI client loaded for API"); },
